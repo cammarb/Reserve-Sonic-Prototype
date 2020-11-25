@@ -4,3 +4,7 @@ Reserve Sonic es una plataforma digital donde se pueden realizar reservas de sal
 
 ## Programa utilizado
 Adobe XD
+
+## Screenshots
+![alt text](https://github.com/cammarb/Reserve-Sonic-Prototype/blob/main/screenshots/ACCOUNT.png?raw=true)
+![alt text](https://github.com/cammarb/Reserve-Sonic-Prototype/blob/main/screenshots/SEARCH.png?raw=true)
