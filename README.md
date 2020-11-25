@@ -8,3 +8,4 @@ Adobe XD
 ## Screenshots
 ![alt text](https://github.com/cammarb/Reserve-Sonic-Prototype/blob/main/screenshots/ACCOUNT.png?raw=true)
 ![alt text](https://github.com/cammarb/Reserve-Sonic-Prototype/blob/main/screenshots/SEARCH.png?raw=true)
+![alt text](https://github.com/cammarb/Reserve-Sonic-Prototype/blob/main/screenshots/acc%20edit.png?raw=true)
